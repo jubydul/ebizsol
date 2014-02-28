@@ -8,7 +8,9 @@
 	<img src="images/banner.png" width="172" />
     <hr />
 	<h1>Welcome to Electronic Business Solution</h1>
-    
+    <p>
+    	We are providing electronic business solutions for all types of business. We have a skilled team.
+    </p>
     <br/><br/>
     <hr/>
     copyright &copy; All rights reserved by eBizSol.
