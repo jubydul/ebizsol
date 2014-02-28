@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-	<title>Electronic Business Solution~ Home</title>
+	<title>Electronic Business Solution~ About Us</title>
 </head>
 <body>
 	<img src="images/banner.png" width="172" />
     <hr />
-	<h1>Welcome to Electronic Business Solution</h1>
+	<h1>About eBizSol</h1>
     
     <br/><br/>
     <hr/>
