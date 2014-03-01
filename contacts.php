@@ -9,7 +9,9 @@
     <hr />
 	<h1>Contact</h1>
     <p>
-    	67/F, Green Road, Panthapath, Dhaka-1205
+    	67/F, Green Road, Panthapath, Dhaka-1205<br/>
+        Phone: 02885678<br/>
+        Email: info@ebizsol.com
     </p>
     <br/><br/>
     <hr/>
