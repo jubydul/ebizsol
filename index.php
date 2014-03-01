@@ -10,6 +10,14 @@
 	<h1>Welcome to Electronic Business Solution</h1>
     <p>
     	We are providing electronic business solutions for all types of business. We have a skilled team.
+        
+        <h3>We provide service as listed below</h3>
+        <ul>
+        	<li>Web Development</li>
+            <li>Business Automation</li>
+            <li>Network solutions</li>
+            <li>Support</li>
+        </ul>
     </p>
     <br/><br/>
     <hr/>
