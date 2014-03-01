@@ -21,6 +21,6 @@
     </p>
     <br/><br/>
     <hr/>
-    copyright &copy; All rights reserved by eBizSol.
+    copyright &copy; All rights reserved by eBizSol. powered by <a href="#">aTechSol.com</a>
 </body>
 </html>
